@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/QtDemo1">
+        <file>page1.PNG</file>
+        <file>page2.png</file>
+    </qresource>
+</RCC>

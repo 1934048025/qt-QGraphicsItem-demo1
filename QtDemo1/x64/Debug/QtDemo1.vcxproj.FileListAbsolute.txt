@@ -1,0 +1,2 @@
+C:\Users\JNC555\source\repos\QtDemo1\x64\Debug\QtDemo1.exe
+H:\Krl\VSRepos\QtDemo1\x64\Debug\QtDemo1.exe
